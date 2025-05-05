@@ -3,6 +3,7 @@
 Clone this repository by using the following command and open the new folder containing the source code on your terminal:
 ```
 git clone https://github.com/Apower11/PriceProphetQMUL.git
+cd PriceProphet
 ```
 ## Step 2: Run the reverse proxy
 To run the reverse proxy enter these commands into your terminal when in the project folder:
