@@ -19,3 +19,8 @@ To run the frontend run these two commands:
 npm i
 ng serve
 ```
+# Testing the code
+Run this command to run the tests:
+```
+ng test
+```
